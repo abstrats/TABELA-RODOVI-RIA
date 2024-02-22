@@ -1,19 +1,17 @@
 table {
-    background-color: grey; /*Aqui estamos colocando cor de fundo*/
-    text-align: center; /*Estamos alinhando o texto ao centro*/
-    
+background-color: grey;
 }
 
 tr {
-    color: white;
+color: rgb(250, 246, 246);
+}
+
+.vermelho {
+background-color: red;
     
 }
 
-.dombosco {
-    background-color: red;
+.titulo {
+background-color: red;
+
 }
-
-
-
-
-
